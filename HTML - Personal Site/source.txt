@@ -2,3 +2,4 @@ https://colorhunt.co/
 https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 https://www.w3schools.com/cssref/css_default_values.asp
 https://devdocs.io/
+https://www.favicon.cc/
